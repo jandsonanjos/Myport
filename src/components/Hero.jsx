@@ -22,6 +22,10 @@ export default function Hero() {
         <a href="contacts" className="border px-6 py-3 rounded-xl">
           Contact
         </a>
+
+        <a href="Profile" className="border px-6 py-3 rounded-xl">
+          Profile
+        </a>
       </div>
     </section>
   )
