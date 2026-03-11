@@ -13,10 +13,14 @@ export default function Contact() {
           <p>LinkedIn: linkedin.com/in/jandsonanjos</p>
           <p>GitHub: github.com/jandsonanjos</p>
         </div>
-
-        <button className="mt-8 px-6 py-3 bg-blue-600 rounded-lg hover:bg-blue-700">
+        <a 
+          href="https://wa.me/5583998578951?text=Ol%C3%A1%20Jandson%20queremos%20contrat%C3%A1-lo" 
+          target="_blank" 
+          rel="noopener noreferrer"
+          className="inline-block mt-8 px-6 py-3 bg-blue-600 rounded-lg hover:bg-blue-700"
+        >
           Send Message
-        </button>
+        </a>
       </div>
     </section>
   )

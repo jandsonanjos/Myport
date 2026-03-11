@@ -15,15 +15,19 @@ export default function Hero() {
       </p>
 
       <div className="mt-8 flex justify-center gap-4">
-        <a href="Projetcts" className="bg-blue-600 px-6 py-3 rounded-xl hover:bg-blue-700 text-white">
+        <a href="https://github.com/Jandsonn" className="bg-blue-600 px-6 py-3 rounded-xl hover:bg-blue-700 text-white">
           View Projects
         </a>
 
-        <a href="contacts" className="border px-6 py-3 rounded-xl  hover:bg-gray-800 hover:border-gray-700 transition-all duration-200">
-          Contact
+        <a 
+            href="https://wa.me/5583998578951?text=Ol%C3%A1%20Jandson%20queremos%20contrat%C3%A1-lo" 
+            target="_blank" 
+            rel="noopener noreferrer"
+            className="border px-6 py-3 rounded-xl hover:bg-gray-800 hover:border-gray-700 transition-all duration-200">
+            Contact
         </a>
 
-        <a href="Profile" className="border px-6 py-3 rounded-xl hover:bg-gray-800 hover:border-gray-700 transition-all duration-200">
+        <a href="https://www.linkedin.com/in/jandsondosanjos/" className="border px-6 py-3 rounded-xl hover:bg-gray-800 hover:border-gray-700 transition-all duration-200">
           Profile
         </a>
       </div>
