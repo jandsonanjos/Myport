@@ -1,7 +1,7 @@
 export default function Projects() {
 
     <div className="bg-red-500 p-10">
-  TESTE TAILWIND
+
 </div>
 
   const projects = [

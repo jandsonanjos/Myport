@@ -15,15 +15,15 @@ export default function Hero() {
       </p>
 
       <div className="mt-8 flex justify-center gap-4">
-        <a href="Projetcts" className="bg-blue-600 px-6 py-3 rounded-xl">
+        <a href="Projetcts" className="bg-blue-600 px-6 py-3 rounded-xl hover:bg-blue-700 text-white">
           View Projects
         </a>
 
-        <a href="contacts" className="border px-6 py-3 rounded-xl">
+        <a href="contacts" className="border px-6 py-3 rounded-xl  hover:bg-gray-800 hover:border-gray-700 transition-all duration-200">
           Contact
         </a>
 
-        <a href="Profile" className="border px-6 py-3 rounded-xl">
+        <a href="Profile" className="border px-6 py-3 rounded-xl hover:bg-gray-800 hover:border-gray-700 transition-all duration-200">
           Profile
         </a>
       </div>

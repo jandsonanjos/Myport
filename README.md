@@ -1,3 +1,25 @@
+**🇧🇷 Português**
+
+Para executar o projeto, entre na pasta raiz **"PORTFÓLIO/Vite-project"**.
+Em seguida, execute o script **`initscript.sh`**.
+
+Certifique-se de que a ferramenta **Docker** esteja instalada em sua máquina.
+Após iniciar o script, basta aguardar: ele realizará automaticamente o **build** e a **inicialização do sistema**.
+
+---
+
+**🇺🇸 English**
+
+To run the project, navigate to the root folder **"PORTFÓLIO/Vite-project"**.
+Then execute the script **`initscript.sh`**.
+
+Make sure that **Docker** is installed on your machine.
+After running the script, simply wait: it will automatically perform the **build** and **system initialization**.
+
+
+#DESC PROJECT
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -15,3 +37,5 @@ The React Compiler is not enabled on this template because of its impact on dev 
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 # Myport
+
+

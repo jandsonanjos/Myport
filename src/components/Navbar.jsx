@@ -8,7 +8,7 @@ export default function Navbar() {
             <a href="#" className="-m-1.5 p-1.5">
               <span className="sr-only">Your Company</span>
               <img
-                src="https://tailwindcss.com/plus-assets/img/logos/mark.svg?color=indigo&shade=500"
+                src="/public/svg-jandson.svg"
                 alt=""
                 className="h-8 w-auto"
               />
@@ -21,7 +21,7 @@ export default function Navbar() {
               className="-m-2.5 inline-flex items-center justify-center rounded-md p-2.5 text-gray-200"
             >
               <span className="sr-only">Open main menu</span>
-              ☰
+              
             </button>
           </div>
 
