@@ -11,6 +11,11 @@ export default function Projects() {
       id: 2,
       title: "DevOps Dashboard",
       description: "Monitoring system with Kubernetes & Grafana."
+    },
+    {
+      id: 3,
+      title: "Cloud Infrastructure",
+      description: "Scalable cloud architecture using AWS & Terraform."
     }
   ]
   return (

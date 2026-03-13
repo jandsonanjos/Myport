@@ -22,7 +22,7 @@ export default function Skills() {
         {skills.map(skill => (
           <span
             key={skill}
-            className="bg-gray-800 px-4 py-2 rounded-xl"
+            className="bg-gray-800 px-20 py-1 rounded-xl"
           >
             {skill}
           </span>
