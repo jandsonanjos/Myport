@@ -63,7 +63,7 @@ export default function Profile() {
             <h1 className="text-xl font-bold text-white" style={{ fontFamily: "Arial, sans-serif" }} >Jandson Anjos</h1>
             <p className="text-indigo-400 text-sm mb-1"  style={{ fontFamily: "Arial, sans-serif" }}>@jandsonanjos</p>
             <p className="text-white-400 text-sm mb-4 font-sans" style={{ fontFamily: "Arial, sans-serif" }}>
-              Desenvolvedor Web · Estudante de TI · Apaixonado por tecnologia 🚀
+              DevOps | Administração de Sistemas Linux | Redes & Segurança🚀
             </p>
 
             {/* Stats */}
@@ -137,8 +137,6 @@ export default function Profile() {
             )}
           </div>
         </div>
-
-        <p className="text-center text-white-700 text-xs mt-4" style={{ fontFamily: "Arial, sans-serif" }}>✦ portfólio pessoal ✦</p>
       </div>
     </div>
   );
